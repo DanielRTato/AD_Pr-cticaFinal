@@ -1,0 +1,180 @@
+[
+  {
+    "id": 2,
+    "titulo": "Battle Tendency",
+    "parte": 2,
+    "ambientacion": "Europa e América",
+    "anoinicio": 1938,
+    "personaxes": [
+      {
+        "id": 6,
+        "nome": "Joseph Joestar"
+      },
+      {
+        "id": 7,
+        "nome": "Caesar Anthonio Zeppeli"
+      },
+      {
+        "id": 8,
+        "nome": "Lisa Lisa"
+      },
+      {
+        "id": 9,
+        "nome": "Rudol von Stroheim"
+      },
+      {
+        "id": 10,
+        "nome": "Kars"
+      },
+      {
+        "id": 11,
+        "nome": "Esidisi"
+      },
+      {
+        "id": 12,
+        "nome": "Wamuu"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "titulo": "Stardust Crusaders",
+    "parte": 3,
+    "ambientacion": "Exipto",
+    "anoinicio": 1988,
+    "personaxes": [
+      {
+        "id": 13,
+        "nome": "Jotaro Kujo",
+        "stand": "Star Platinum"
+      },
+      {
+        "id": 14,
+        "nome": "Joseph Joestar",
+        "stand": "Hermit Purple"
+      },
+      {
+        "id": 15,
+        "nome": "Muhammad Avdol",
+        "stand": "Magicians Red"
+      },
+      {
+        "id": 16,
+        "nome": "Noriaki Kakyoin",
+        "stand": "Hierophant Green"
+      },
+      {
+        "id": 17,
+        "nome": "Jean Pierre Polnareff",
+        "stand": "Silver Chariot"
+      },
+      {
+        "id": 18,
+        "nome": "Iggy",
+        "stand": "The Fool"
+      },
+      {
+        "id": 19,
+        "nome": "Dio Brando",
+        "stand": "The World"
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "titulo": "Phantom Blood",
+    "parte": 1,
+    "ambientacion": "Inglaterra",
+    "anoinicio": 1880,
+    "personaxes": [
+      {
+        "id": 1,
+        "nome": "Jonathan Joestar"
+      },
+      {
+        "id": 2,
+        "nome": "Dio Brando"
+      },
+      {
+        "id": 3,
+        "nome": "Will A. Zeppeli"
+      },
+      {
+        "id": 4,
+        "nome": "Robert E. O. Speedwagon"
+      },
+      {
+        "id": 5,
+        "nome": "Erina Pendleton"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "titulo": "Diamond is Unbreakable",
+    "parte": 4,
+    "ambientacion": "Morioh, Xapón",
+    "anoinicio": 1999,
+    "personaxes": [
+      {
+        "id": 20,
+        "nome": "Josuke Higashikata",
+        "stand": "Crazy Diamond"
+      },
+      {
+        "id": 21,
+        "nome": "Jotaro Kujo",
+        "stand": "Star Platinum"
+      },
+      {
+        "id": 22,
+        "nome": "Okuyasu Nijimura",
+        "stand": "The Hand"
+      },
+      {
+        "id": 23,
+        "nome": "Koichi Hirose",
+        "stand": "Echoes"
+      },
+      {
+        "id": 24,
+        "nome": "Rohan Kishibe",
+        "stand": "Heavens Door"
+      },
+      {
+        "id": 25,
+        "nome": "Yoshikage Kira",
+        "stand": "Killer Queen"
+      },
+      {
+        "id": 26,
+        "nome": "Shigekiyo Yangu",
+        "stand": "Aerosmith"
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "titulo": "Vento Aureo",
+    "parte": 5,
+    "ambientacion": "Italia",
+    "anoinicio": 2001,
+    "personaxes": [
+      {
+        "id": 30,
+        "nome": "Giorno Giovanna",
+        "stand": "Gold Experience"
+      },
+      {
+        "id": 31,
+        "nome": "Bruno Bucciarati",
+        "stand": "Sticky Fingers"
+      },
+      {
+        "id": 32,
+        "nome": "Guido Mista",
+        "stand": "Sex Pistols"
+      }
+    ]
+  }
+]
