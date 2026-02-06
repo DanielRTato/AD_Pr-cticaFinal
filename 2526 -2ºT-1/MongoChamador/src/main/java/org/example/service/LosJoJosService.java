@@ -24,6 +24,10 @@ public class LosJoJosService {
             return lolsJojosRepository.save(losJojos);
         }
 
+        public List<LosJojos> findAll(){
+            return lolsJojosRepository.findAll();
+        }
+
     public void exportarJson(){
         List<LosJojos> lista = lolsJojosRepository.findAll();
 

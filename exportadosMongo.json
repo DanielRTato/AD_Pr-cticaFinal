@@ -176,5 +176,29 @@
         "stand": "Sex Pistols"
       }
     ]
+  },
+  {
+    "id": 25,
+    "titulo": "Vento Aureo",
+    "parte": 5,
+    "ambientacion": "Italia",
+    "anoinicio": 2001,
+    "personaxes": [
+      {
+        "id": 33,
+        "nome": "Giorno Giovanna",
+        "stand": "Gold Experience"
+      },
+      {
+        "id": 34,
+        "nome": "Bruno Bucciarati",
+        "stand": "Sticky Fingers"
+      },
+      {
+        "id": 35,
+        "nome": "Guido Mista",
+        "stand": "Sex Pistols"
+      }
+    ]
   }
 ]

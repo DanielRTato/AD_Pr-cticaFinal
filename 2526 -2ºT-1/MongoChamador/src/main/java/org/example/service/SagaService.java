@@ -28,8 +28,8 @@ public class SagaService {
         return sagaRepository.findById(id);
     }
 
-    public void save(Saga saga){
-        sagaRepository.save(saga);
+    public Saga save(Saga saga){
+        return sagaRepository.save(saga);
     }
 
     public void deleteById(Long id) {
